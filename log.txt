@@ -1,1 +1,1 @@
-test_url=https://pagekite.me/thelogg
+test_url=https://basic11.pagekite.me/TheLogg/logg
